@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-y8#$fhl57+rtxbu-86#%$@rerrhaa@iy92n_9nqh6y_-)qguu%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 DOMAINNAME = 'ahnlab2.lge.com'
 PORTNUMBER = '8000'
 ALLOWED_HOSTS = ['*']
