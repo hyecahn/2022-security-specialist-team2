@@ -79,3 +79,5 @@ $ run server.exe
 We already made user id for team 3
 ID : your gmail ID (Exclude @gmail.com)
 Password : lge1234
+
+You can change your password.
