@@ -74,3 +74,8 @@ $ cd x64/Release
 $ run loaddb.exe
 $ run server.exe
 ```
+
+## Login
+We already made user id for team 3
+ID : your gmail ID (Exclude @gmail.com)
+Password : lge1234
