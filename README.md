@@ -76,8 +76,10 @@ $ run server.exe
 ```
 
 ## Login
-We already made user id for team 3
+We already made user id for team 3.
+```
 ID : your gmail ID (Exclude @gmail.com)
 Password : lge1234
+```
 
-You can change your password.
+You can change your password if you want.
