@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: "Roboto";
+    font-size: small;
+}
+
+h4 {
+    color: rgb(150, 150, 150);
+}
+
+a,
+a:visited,
+a:hover,
+a:link,
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    background-color: #F5F5F5;
+}
+
+form {
+    background-color: #FFFFFF;
+    padding: 25px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+    padding: 0px;
+    background-color: #FFFFFF;
+}
+
+#dvPlate {
+    overflow: auto;
+    /* height: 250px; */
+}
+
+#tdLeft {
+    width: 700px;
+}
+
+#tdLeft,
+#tdRight,
+#tdRightBottom {
+    border: solid 1px grey;
+    padding: 0px;
+}
+
+#tdRightBottom {
+    height: 250px;
+}
+
+.mainTable {
+    width: 1000px;
+    border: solid 1px grey;
+}
+
+#info thead {
+    border: solid 1px grey;
+}
+
+.btnA {
+    cursor: pointer;
+    display: inline;
+    padding: 5px;
+    /* padding-left: 5px;
+    padding-right: 5px; */
+    /* border: solid 1px rgb(255, 255, 255); */
+    /* background: white; */
+}
+
+.btnA:hover {
+    cursor: pointer;
+    /* border: solid 1px black; */
+}
+
+
+#information tr:hover {
+    cursor: pointer;
+    background: rgb(219, 219, 219);
+}
+
+
+.rowA {
+    text-align: left;
+}
+
+.dvBoard {
+    background-color: white;
+    width: 350px;
+    height: 200px;
+    border: 0px;
+    padding: 15px;
+    margin: 10px;
+    overflow: auto;
+}
+
+#dvCaptured {
+    text-align: center;
+}
+
+.Alarge {
+    display: inline-block;
+    width: 724px;
+    height: 520px;
+}
+
+.Atall {
+    height: 520px;
+}
+
+
+.horiz {
+    display: inline-block;
+}
+
+#tbMovieInfo {
+    background-color: white;
+    width: 100%;
+    border: 0px;
+}
+
+#tbMovieInfo>tr {
+    padding: 5px;
+}
+
+#upload_form {
+    width: 100%;
+    border: 0px;
+    background: #c9c9c9;
+    padding: 5px;
+}
+
+
+.btnImg {
+    width: 15px;
+    height: 15px;
+}
+
+.small-title {
+    text-align: left;
+    width: 100px;
+    font-weight: bold;
+    color: rgb(121, 121, 121);
+    padding: 0px;
+    height: 25px;
+}
+
+.small-contents {
+    text-align: left;
+    /* padding-left: 20px; */
+    height: 25px;
+    width: 210px;
+}
+
+.A-highlight {
+    background-color: gray;
+}
+
+.AlertRed {
+    border: solid 3px #ff0000;
+}
+
+
+.AbtnRed {
+    background-color: #ff0000;
+}
+
+.AbtnGreen {
+    background-color: #11ff00;
+}
+
+.AlertGreen {
+    border: solid 3px #11ff00;
+}
+
+.btnTimer {
+    cursor: pointer;
+    display: inline-block;
+    padding-left: 3px;
+    text-align: right;
+}
+
+.btnHidden {
+    visibility: hidden;
+    display: none;
+}
+
+.btnVisible {
+    visibility: visible;
+}
+
+#btnLiveMode {
+    display: inline-block;
+}
+
+#btnLiveOffMode {
+    display: inline-block;
+}
+
+#btnSetting {
+    display: inline-block;
+}
+
+.Astatus {
+    border: solid 1px;
+    border-radius: 30px;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ALeftAlign {
+    text-align: left;
+}
+
+#player {
+    max-width: 650px;
+}
